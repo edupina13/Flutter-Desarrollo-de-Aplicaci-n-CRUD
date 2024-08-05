@@ -1,0 +1,1 @@
+enum AutoRole { admin, user }
